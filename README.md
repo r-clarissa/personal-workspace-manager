@@ -1,5 +1,5 @@
 # About The Project
-This project is a personal workspace manager using MySQL and python. It implements the following: 
+This project is makes use of MySQL and Python to organize the personal workspace of the user. It implements the following: 
 - adds duties and fields
 - displays duties and fields
 - modifies a duty or a field
