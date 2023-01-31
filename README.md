@@ -23,7 +23,7 @@ pip install mysql-connector-python
 ```
 2. Clone the repo
 ```
-git clone https://github.com/r-clarissa/workspace-app.git
+git clone https://github.com/r-clarissa/personal-workspace-manager.git
 ```
 4. Find and change your terminal path where the cloned folder on your local directory is found.
 5. On your terminal, run the `setup.py` then run `app.py`.
