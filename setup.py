@@ -13,7 +13,6 @@ else:
     print("\nFailed to connect.")
 
 # Setup the workspacedb
-mycursor = mydb.cursor()
 try:
     print("Database 'workspacedb' successfully created.")
 except:
