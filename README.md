@@ -1,5 +1,5 @@
 # About The Project
-This project makes use of an artificial intelligence for object detection. It is is programmed and initially tested with pollens. It implements the following: 
+This project is a personal workspace manager using MySQL and python. It implements the following: 
 - adds duties and fields
 - displays duties and fields
 - modifies a duty or a field
